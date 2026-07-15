@@ -1,3 +1,5 @@
+![Banner](https://github.com/saanvi-khanna/saanvi-khanna/blob/main/githeader.jpg)
+
 # Saanvi Khanna
 
 **Data Science & AI Student at Universität des Saarlandes**  
