@@ -9,9 +9,7 @@ Graduating 2026 • Seeking 2026 Graduate Roles & Internships
 I am a Data Science & AI student focused on building practical, data‑driven systems.  
 My work spans **Machine Learning**, **Computer Vision**, **Causal Discovery**, **Data Science**, **Data Analysis**, and **systems programming fundamentals**.
 
-My bachelor thesis focuses on  
-**Interpretable Causal Discovery using Kolmogorov–Arnold Networks (KANs)**,  
-exploring how neural function approximators can reveal underlying causal structure.
+My bachelor thesis focuses on **Interpretable Causal Discovery using Kolmogorov–Arnold Networks (KANs)**, exploring how neural function approximators can reveal underlying causal structure.
 
 
 ---
